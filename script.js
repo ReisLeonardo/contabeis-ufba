@@ -90,7 +90,7 @@ document.addEventListener("DOMContentLoaded", function() {
         'FCC049': 60,
         'FCC053': 60,
         'FCC047': 60,
-        'FCCF02': 240
+        'GFCC0002': 240
     };
 
     // Atualiza o total de matérias restantes e a creditação obrigatória
